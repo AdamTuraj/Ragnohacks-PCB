@@ -7162,7 +7162,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C2682291"
+		(property "LCSC" "C2682291"
 			(at 58.42 162.56 0)
 			(effects
 				(font
@@ -7252,7 +7252,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 170.18 27.94 0)
 			(effects
 				(font
@@ -7463,7 +7463,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 182.88 27.94 0)
 			(effects
 				(font
@@ -7673,6 +7673,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 43.18 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6850243f-61aa-40ce-8405-d0163887f886")
 		)
@@ -7707,7 +7716,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "460R"
+		(property "Value" "360R"
 			(at 123.19 163.8299 0)
 			(effects
 				(font
@@ -7716,7 +7725,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 118.872 162.56 90)
 			(effects
 				(font
@@ -7735,6 +7744,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 120.65 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 120.65 162.56 0)
 			(effects
 				(font
@@ -7813,7 +7831,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 53.34 29.21 0)
 			(effects
 				(font
@@ -7863,7 +7881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A"
 			(at 25.4 44.45 0)
 			(effects
 				(font
@@ -7890,7 +7908,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C500080"
+		(property "LCSC" "C318884"
 			(at 25.4 49.53 0)
 			(effects
 				(font
@@ -7941,7 +7959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 40.64 115.57 0)
 			(effects
 				(font
@@ -7968,7 +7986,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C7501612"
+		(property "LCSC" "C7501612"
 			(at 40.64 115.57 0)
 			(effects
 				(font
@@ -8011,7 +8029,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "460R"
+		(property "Value" "360R"
 			(at 146.05 128.2699 0)
 			(effects
 				(font
@@ -8020,7 +8038,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 141.732 127 90)
 			(effects
 				(font
@@ -8039,6 +8057,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 143.51 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 143.51 127 0)
 			(effects
 				(font
@@ -8184,7 +8211,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 66.04 29.21 0)
 			(effects
 				(font
@@ -8262,7 +8289,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 106.68 27.94 0)
 			(effects
 				(font
@@ -8340,7 +8367,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 93.98 27.94 0)
 			(effects
 				(font
@@ -8419,7 +8446,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 25.4 106.68 0)
 			(effects
 				(font
@@ -8497,7 +8524,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C2480"
+		(property "LCSC" "C2480"
 			(at 48.26 153.67 0)
 			(effects
 				(font
@@ -8643,7 +8670,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 107.95 153.67 0)
 			(effects
 				(font
@@ -8856,6 +8883,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 43.18 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6a450eb-5e85-4262-9f77-97e37a149f02")
 		)
@@ -8926,7 +8962,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 40.64 29.21 0)
 			(effects
 				(font
@@ -9273,7 +9309,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 25.4 92.71 0)
 			(effects
 				(font
@@ -9352,7 +9388,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C965804"
+		(property "LCSC" "C965804"
 			(at 120.65 153.67 0)
 			(effects
 				(font
@@ -9430,7 +9466,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 132.08 27.94 0)
 			(effects
 				(font
@@ -9643,7 +9679,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 25.4 54.61 0)
 			(effects
 				(font
@@ -9922,7 +9958,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 73.66 153.67 0)
 			(effects
 				(font
@@ -10265,7 +10301,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C2040"
+		(property "LCSC" "C2040"
 			(at 78.74 87.63 0)
 			(effects
 				(font
@@ -10508,7 +10544,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 144.78 27.94 0)
 			(effects
 				(font
@@ -10652,7 +10688,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C319178"
+		(property "LCSC" "C319178"
 			(at 36.83 162.56 0)
 			(effects
 				(font
@@ -10740,7 +10776,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C965804"
+		(property "LCSC" "C965804"
 			(at 143.51 118.11 0)
 			(effects
 				(font
@@ -10818,7 +10854,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 179.07 63.5 0)
 			(effects
 				(font
@@ -10895,7 +10931,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C18209050"
+		(property "LCSC" "C18209050"
 			(at 29.21 100.33 0)
 			(effects
 				(font
@@ -10978,7 +11014,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C35879"
+		(property "LCSC" "C35879"
 			(at 87.63 149.86 0)
 			(effects
 				(font
@@ -11059,7 +11095,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 195.58 27.94 0)
 			(effects
 				(font
@@ -11137,7 +11173,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 157.48 27.94 0)
 			(effects
 				(font
@@ -11215,7 +11251,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
+		(property "LCSC" ""
 			(at 119.38 27.94 0)
 			(effects
 				(font
@@ -11268,7 +11304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x18_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x18_P2.54mm_Vertical"
 			(at 196.85 127 0)
 			(effects
 				(font
@@ -11295,7 +11331,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C2897400"
+		(property "LCSC" "C2897400"
 			(at 196.85 127 0)
 			(effects
 				(font
@@ -11596,7 +11632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x18_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x18_P2.54mm_Vertical"
 			(at 193.04 127 0)
 			(effects
 				(font
@@ -11623,7 +11659,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C2897400"
+		(property "LCSC" "C2897400"
 			(at 193.04 127 0)
 			(effects
 				(font
@@ -11749,7 +11785,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "W25Q128JVSIQ"
+		(property "LCSC" "W25Q128JVSIQ"
 			(at 166.37 73.66 0)
 			(effects
 				(font

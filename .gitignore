@@ -21,6 +21,7 @@ fp-info-cache
 *.lck
 production/backups
 fabrication-toolkit-options.json
+*.kicad_pcb.zip
 
 # Netlist files (exported from Eeschema)
 *.net
