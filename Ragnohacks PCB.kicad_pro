@@ -100,7 +100,7 @@
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "starved_thermal": "ignore",
         "text_height": "warning",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
@@ -178,7 +178,8 @@
       ],
       "track_widths": [
         0.0,
-        0.25
+        0.25,
+        0.6
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
