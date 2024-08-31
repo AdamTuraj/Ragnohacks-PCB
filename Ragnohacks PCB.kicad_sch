@@ -10877,7 +10877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_Keystone_931_Horizontal"
+		(property "Footprint" "Connector_USB:USB_A_Onboard"
 			(at 40.64 163.83 0)
 			(effects
 				(font
@@ -10904,7 +10904,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C319178"
+		(property "LCSC" ""
 			(at 36.83 162.56 0)
 			(effects
 				(font
@@ -10913,7 +10913,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "931"
+		(property "MPN" ""
 			(at 36.83 162.56 0)
 			(effects
 				(font
