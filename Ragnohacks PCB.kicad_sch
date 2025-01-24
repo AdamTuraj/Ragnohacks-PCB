@@ -5231,12 +5231,6 @@
 		(uuid "5a2433e4-d3c7-4446-b912-388c1f8a4eb7")
 	)
 	(junction
-		(at 163.83 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "605b85ff-357a-480e-a779-9aea54cf7a7f")
-	)
-	(junction
 		(at 29.21 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5396,6 +5390,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 76.2) (xy 168.91 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09dee681-c111-416b-8331-96d7199fb1b7")
+	)
+	(wire
+		(pts
 			(xy 173.99 60.96) (xy 173.99 68.58)
 		)
 		(stroke
@@ -5466,6 +5470,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 73.66) (xy 168.91 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "171639c6-7073-4675-88f4-f33aded45977")
+	)
+	(wire
+		(pts
 			(xy 30.48 49.53) (xy 43.18 49.53)
 		)
 		(stroke
@@ -5523,16 +5537,6 @@
 			(type default)
 		)
 		(uuid "20367d51-5bd5-4986-8fb5-c6473cadad44")
-	)
-	(wire
-		(pts
-			(xy 168.91 88.9) (xy 163.83 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "223f1a4d-4dda-4688-a4ed-7667e0d4cb93")
 	)
 	(wire
 		(pts
@@ -5686,13 +5690,13 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 76.2) (xy 168.91 76.2)
+			(xy 160.02 76.2) (xy 162.56 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "557183e0-e60c-4dc4-8576-0acc1534cb1c")
+		(uuid "4fe2847b-9900-4f5b-8cb3-499f636e08eb")
 	)
 	(wire
 		(pts
@@ -5706,13 +5710,13 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 88.9) (xy 163.83 68.58)
+			(xy 161.29 73.66) (xy 161.29 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "583a6a2d-fd77-4f91-a7fa-fd08b4acf7a3")
+		(uuid "595a6db6-dd9f-4202-9b36-9d24a11143ad")
 	)
 	(wire
 		(pts
@@ -5726,16 +5730,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 73.66) (xy 168.91 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ce81fb3-f22e-4bcd-b2b2-b4d5f37a0bc4")
-	)
-	(wire
-		(pts
 			(xy 144.78 24.13) (xy 157.48 24.13)
 		)
 		(stroke
@@ -5743,6 +5737,16 @@
 			(type default)
 		)
 		(uuid "64e82576-fc63-4f0e-b91c-ed599a998c2e")
+	)
+	(wire
+		(pts
+			(xy 161.29 74.93) (xy 166.37 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65f88fc1-c809-4c2a-bfd2-4df6d4b5f9fe")
 	)
 	(wire
 		(pts
@@ -5956,16 +5960,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 99.06) (xy 168.91 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b589f7f6-929d-4d61-bb2b-13c03e220151")
-	)
-	(wire
-		(pts
 			(xy 149.86 83.82) (xy 152.4 83.82)
 		)
 		(stroke
@@ -6023,6 +6017,16 @@
 			(type default)
 		)
 		(uuid "d69717e2-917b-422f-bec4-1daf74877867")
+	)
+	(wire
+		(pts
+			(xy 166.37 74.93) (xy 166.37 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d75fd263-d3db-474f-a755-6cb6ba95992a")
 	)
 	(wire
 		(pts
@@ -6133,6 +6137,26 @@
 			(type default)
 		)
 		(uuid "f2522803-2dde-4fe2-8723-060faa4be1de")
+	)
+	(wire
+		(pts
+			(xy 162.56 76.2) (xy 162.56 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f61d684c-d86d-4110-9932-26b0da7e7054")
+	)
+	(wire
+		(pts
+			(xy 160.02 73.66) (xy 161.29 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f800e3e6-e02f-4c2c-9736-6146a03d1977")
 	)
 	(wire
 		(pts
@@ -7320,7 +7344,7 @@
 	)
 	(global_label "USB_DN"
 		(shape bidirectional)
-		(at 179.07 76.2 0)
+		(at 179.07 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7330,7 +7354,7 @@
 		)
 		(uuid "96e255ae-a197-46e2-9915-aa0704b2042d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.5446 76.2 0)
+			(at 190.5446 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7474,7 +7498,7 @@
 	)
 	(global_label "USB_DP"
 		(shape bidirectional)
-		(at 179.07 73.66 0)
+		(at 179.07 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7484,7 +7508,7 @@
 		)
 		(uuid "b0dab74a-0be0-4ac9-bd2e-9639974ff63c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.4841 73.66 0)
+			(at 190.4841 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10722,6 +10746,24 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 153.67 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 153.67 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2765186"
 			(at 153.67 114.3 0)
 			(effects
 				(font
